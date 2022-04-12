@@ -1,13 +1,13 @@
 # Site Settings
-name: Powershell Blog
-title: UDFLIX a Blogtastic Site
-description: UDFlix is a dedicated Powershell Universal Dashboard website
+name: dbatools Blog
+title: powershell dbatools blog site
+description: This is my personal blog site dedicated to dbatools for powershell
 tags:
   - blog
   - template
   - jekyll
   - theme
-  - universaldashboard
+  - dbatools
 email: adambacon1@hotmail.com
 #disqus_username: disqus_username
 show_hero: true
@@ -18,7 +18,7 @@ github_username: psdevuk
 #facebook_username: facebook_username
 twitter_username: psdevuk
 #instagram_username: instagram_username
-linkedin_username: adam-bacon-993009100
+linkedin_username: adam-bacon-t2022
 #medium_username: medium_username
 
 # Theme Settings
@@ -35,7 +35,7 @@ show_modal_on_finish_post: true
 two_columns_layout: true
 
 # Advanced Settings
-baseurl: "/ud-flix" # the subpath of your site, e.g. /blog
+baseurl: "/dbatools" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 #google_analytics: "UA-XXXXXXXX-X"
 language: "en"
