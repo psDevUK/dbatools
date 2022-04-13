@@ -2,7 +2,7 @@
 date: 2022-04-13 13:56:40
 layout: post
 title: DBATOOLS BLOG SITE
-subtitle: This is my first blog on my dedicated blog page to the might dbatools PowerShell module
+subtitle: New blogs dedicated to the mighty dbatools PowerShell module
 description: This blog site is all about dbatools and using it within PowerShell to try and make your life easier
 image: /dbatools/assets/img/post1.png
 optimized_image: /dbatools/assets/img/post1.jpg
