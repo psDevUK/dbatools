@@ -1,12 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: dbatools blog
+title: dbatools blog | A blog theme for PowerShell dbatools
+description: This is a dedicated blog site to the awesome PowerShell module named DBATOOLS if you work with SQL you need this module. Read more here.
 tags:
   - blog
   - template
   - jekyll
   - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
+  - dbatools
+  - powershell
+email: adambacon1@hotmail.com
 show_hero: true

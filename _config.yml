@@ -1,5 +1,5 @@
 # Site Settings
-name: dbatools Blog
+name: dbatools blog site
 title: powershell dbatools blog site
 description: This is my personal blog site dedicated to dbatools for powershell
 tags:
@@ -8,6 +8,7 @@ tags:
   - jekyll
   - theme
   - dbatools
+  - powershell
 email: adambacon1@hotmail.com
 #disqus_username: disqus_username
 show_hero: true
