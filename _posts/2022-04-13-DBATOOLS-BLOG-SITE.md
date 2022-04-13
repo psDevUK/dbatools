@@ -40,7 +40,7 @@ or
 Get-Command -Module dbatools -verb Get -Noun *something*
 ```
 Well folks this time the developers of this module thought about that and wrote this [super nifty command to find commands](https://docs.dbatools.io/Find-DbaCommand) so [massive thanks going out to the dbatools crew](https://dbatools.io/team/) for dealing with the big issue of using a new module, discovering what is available. Not only that, but the team have put together [a totally awesome site for documentation](https://docs.dbatools.io/) plus there is a book, please see below for more details
-![dbatools blog preview](/assets/img/dbatools-logo-1.png)"Super cool module"
+![dbatools blog preview](https://psdevuk.github.io/dbatools/assets/img/dbatools-logo-1.png?raw=true "Super cool module")
 
 ## Credit where credit is due
 
