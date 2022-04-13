@@ -26,7 +26,7 @@ Well in a past job, in a galaxy not too far away. I was doing a fair amount of S
 
 ## Hero in a half shell...
 
-![placeholder](https://psdevuk.github.io/adam-blog/assets/img/halfshell.jpg "Original Shell Heroes")
+![placeholder](https://psdevuk.github.io/dbatools/assets/img/halfshell.jpg?raw=true "Original Shell Heroes")
 Okay I am clearly getting distracted already, thinking back to my days as a kid way before PowerShell was about and the only shell heroes back in the day were the TMNT. Fast-Forward many years later and it still seems to me that other people do not want to become shell heroes or are happy with the point and click method they have always used. Don't get me wrong there is nothing wrong with that, although it will take longer, and you will most likely repeat that task some-time in the near future, and if you are really unlucky you might even get a repetative strain injury. Now I am not associating PowerShell with TMNT as in I don't go to work with a pair of nunchucks or samurai sword, but I do want to be that hero who is using a shell aka PowerShell to defeat the evils of computer problems aka Shredder, Rocksteady & Bebob...Can you see where I am going with this? Although I am not employed as a PowerShell developer, I see things that could be scripted, even if it's not a difficult task. Why? Because I believe computers were designed to do the brunt of the work, let the computer do the crunching, make your script into a function so you can dynamically change the parameters, make those functions into a module and share with colleagues or github. It's like the circle of life right there, I just think more people could be working smarter and not harder.
 
 ## Learning New Commands
